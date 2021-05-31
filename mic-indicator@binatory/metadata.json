@@ -1,0 +1,6 @@
+{
+  "uuid": "mic-indicator@binatory",
+  "name": "Mic Indicator",
+  "description": "Applet that allows to see and adjust the status of the current active microphone",
+  "version": "0.0.1"
+}
