@@ -11,4 +11,4 @@ $ mv mic-indicator-cinnamon-applet/mic-indicator@binatory $HOME/.local/share/cin
 $ # System Settings -> Applets -> Add "Mic Indicator" to a panel
 ```
 
-The code is shamelessly stolen from [https://github.com/claudiux/Cinnamon/blob/3.6.7/files/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js](https://github.com/claudiux/Cinnamon/blob/3.6.7/files/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js)
+The code is shamelessly stolen from [https://github.com/linuxmint/Cinnamon/blob/3.6.7/files/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js](https://github.com/linuxmint/Cinnamon/blob/3.6.7/files/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js)
